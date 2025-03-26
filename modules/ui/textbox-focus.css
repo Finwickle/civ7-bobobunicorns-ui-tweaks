@@ -1,7 +1,0 @@
-.fxs-textbox > input {
-    caret-color: transparent;
-}
-
-.fxs-textbox > input:focus {
-    caret-color: inherit;
-}
